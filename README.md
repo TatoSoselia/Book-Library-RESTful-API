@@ -6,7 +6,7 @@ A simple RESTful API for managing a book library, built with FastAPI, async SQLA
 
 ### 1. Clone & Setup
 ```bash
-git clone <repo-url>
+git clone https://github.com/TatoSoselia/Book-Library-RESTful-API.git
 cd Book-Library-RESTful-API
 ```
 
